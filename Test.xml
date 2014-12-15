@@ -1,0 +1,29 @@
+<indexerdata>
+   <users>
+	<user>
+	   <username>davishyer</username>
+	   <password>davishyer</password>
+	   <firstname>Davis</firstname>
+	   <lastname>Hyer</lastname>
+	   <email>davishyer@gmail.com</email>
+	   <indexedrecords>100</indexedrecords>
+	</user>
+   </users>
+   <projects>
+	<project>
+	   <title>Test One</title>
+	   <recordsperimage>10</recordsperimage>
+	   <firstycoord>10</firstycoord>
+	   <recordheight>10</recordheight>
+	   <fields>
+		<field>
+		   <title>Last Name</title>
+		   <xcoord>10</xcoord>
+		   <width>10</width>
+		   <helphtml>fieldhelp</helphtml>
+		   <knowndata>knowndata</knowndata>
+		</field>
+	   </fields>
+	</project>
+   </projects>
+</indexerdata>
