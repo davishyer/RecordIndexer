@@ -1,4 +1,4 @@
-Davis is a dork
+Record Indexer
 =============
 
 Final Project of CS240
